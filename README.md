@@ -49,5 +49,5 @@
 |  |  | QKim | | | |
 | [A01912](https://www.acmicpc.net/problem/1912) | 연속합 | nyh | | | |
 |  |  | QKim | | | |
-| [A12865](https://www.acmicpc.net/problem/12865)| 평범한 배낭 | nyh | [py](NYH/acmicpc/A12865.py) | [3000ms](https://www.acmicpc.net/source/44008960) | |
+| [A12865](https://www.acmicpc.net/problem/12865)| 평범한 배낭 | nyh | [py](nyh/acmicpc/A12865.py) | [3000ms](https://www.acmicpc.net/source/44008960) | |
 |  |  | QKim | | | |
