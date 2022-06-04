@@ -4,7 +4,7 @@
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A01753](https://www.acmicpc.net/problem/1753) | 최단경로 | nyh | | | |
-|  |  | QKim | [py](QKIM/Acmicpc/A01753.py) | [788ms](https://www.acmicpc.net/source/38914635) | Dijkstra |
+|  |  | QKim | [py](QKIM/Acmicpc/A01753.py) [node.js](QKIM/Acmicpc/A01753.js) | [788ms](https://www.acmicpc.net/source/38914635) [1008ms](https://www.acmicpc.net/source/44160705)| 다익스트라 |
 | [A01504](https://www.acmicpc.net/problem/1504) | 특정한 최단 경로 | nyh | | | |
 |  |  | QKim | | | |
 | [A13549](https://www.acmicpc.net/problem/13549)| 숨바꼭질 3 | nyh | | | |
