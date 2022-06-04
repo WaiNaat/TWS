@@ -1,6 +1,6 @@
 ## 문제 풀이
 
-## opt: dijkstra, bellman-ford, floyd-warshall
+## opt: dijkstra
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A01753](https://www.acmicpc.net/problem/1753) | 최단경로 | nyh | | | |
@@ -10,12 +10,6 @@
 | [A13549](https://www.acmicpc.net/problem/13549)| 숨바꼭질 3 | nyh | | | |
 |  |  | QKim | | | |
 | [A09370](https://www.acmicpc.net/problem/9370) | 미확인 도착지 | nyh | | | |
-|  |  | QKim | | | |
-| [A11657](https://www.acmicpc.net/problem/11657)| 타임머신 | nyh | | | |
-|  |  | QKim | | | |
-| [A11404](https://www.acmicpc.net/problem/11404)| 플로이드 | nyh | | | |
-|  |  | QKim | | | |
-| [A01956](https://www.acmicpc.net/problem/1956) | 운동 | nyh | | | |
 |  |  | QKim | | | |
 
 ## opt: dp
