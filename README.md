@@ -10,7 +10,7 @@
 | [A13549](https://www.acmicpc.net/problem/13549)| 숨바꼭질 3 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13549.js) | [244ms](https://www.acmicpc.net/source/44216706) | 다익스트라 |
 | [A09370](https://www.acmicpc.net/problem/9370) | 미확인 도착지 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A09370.js) | [900ms](https://www.acmicpc.net/source/44316527) | 다익스트라 |
 
 ## opt: dp
 | Source  | Problem | Author | Solution | Submission | Type |
