@@ -4,19 +4,19 @@
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A02630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [PyPy3](QKIM/Acmicpc/A02630.py) | [156ms](https://www.acmicpc.net/source/34273685) | 분할정복 |
 | [A01992](https://www.acmicpc.net/problem/1992) | 쿼드트리 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [py](QKIM/Acmicpc/A01992.py) | [76ms](https://www.acmicpc.net/source/37668025) | 분할정복 |
 | [A01780](https://www.acmicpc.net/problem/1780) | 종이의 개수 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [py](QKIM/Acmicpc/A01780.py) | [6080ms](https://www.acmicpc.net/source/37721759) | 분할정복 |
 | [A01629](https://www.acmicpc.net/problem/1629) | 곱셈 | nyh | | | |
-|  |  | QKim | | | |
-| [A11401](https://www.acmicpc.net/problem/1401) | 이항 계수 3 | nyh | | | |
+|  |  | QKim | [py](QKIM/Acmicpc/A01629.py) | [76ms](https://www.acmicpc.net/source/37779617) | 분할정복 |
+| [A11401](https://www.acmicpc.net/problem/11401) | 이항 계수 3 | nyh | | | |
 |  |  | QKim | | | |
 | [A02740](https://www.acmicpc.net/problem/2740) | 행렬 곱셈 | nyh | | | |
 |  |  | QKim | | | |
 | [A10830](https://www.acmicpc.net/problem/10830) | 행렬 제곱 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [py](QKIM/Acmicpc/A10830.py) | [72ms](https://www.acmicpc.net/source/39060289) | 분할정복 |
 | [A11444](https://www.acmicpc.net/problem/11444)| 피보나치 수 6 | nyh | | | |
 |  |  | QKim | | | |
 | [A06549](https://www.acmicpc.net/problem/6549) | 히스토그램에서 가장 큰 직사각형 | nyh | | | |
