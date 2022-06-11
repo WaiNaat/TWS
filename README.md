@@ -30,9 +30,9 @@
 |  |  | QKim | [py](QKIM/Acmicpc/A01753.py) [node.js](QKIM/Acmicpc/A01753.js) | [788ms](https://www.acmicpc.net/source/38914635) [1008ms](https://www.acmicpc.net/source/44160705)| 다익스트라 |
 | [A01504](https://www.acmicpc.net/problem/1504) | 특정한 최단 경로 | nyh | [PyPy3](NYH/Acmicpc/A01504.py) | [512ms](https://www.acmicpc.net/source/44247920)| 다익스트라 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A01504.js) | [728ms](https://www.acmicpc.net/source/44176486) | 다익스트라 |
-| [A13549](https://www.acmicpc.net/problem/13549)| 숨바꼭질 3 | nyh | | | |
+| [A13549](https://www.acmicpc.net/problem/13549)| 숨바꼭질 3 | nyh |[py](NYH/Acmicpc/A13549.py) | [200ms](https://www.acmicpc.net/source/44397353)| DP, 우선순위큐 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13549.js) | [244ms](https://www.acmicpc.net/source/44216706) | 다익스트라 |
-| [A09370](https://www.acmicpc.net/problem/9370) | 미확인 도착지 | nyh | | | |
+| [A09370](https://www.acmicpc.net/problem/9370) | 미확인 도착지 | nyh |[PyPy3](NYH/Acmicpc/A09370.py) |[4700ms](https://www.acmicpc.net/source/44402602) | 다익스트라 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A09370.js) | [900ms](https://www.acmicpc.net/source/44316527) | 다익스트라 |
 
 ## DP
