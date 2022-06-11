@@ -1,6 +1,29 @@
 ## 문제 풀이
 
-## opt: dijkstra
+## Divide & Conquer
+| Source  | Problem | Author | Solution | Submission | Type |
+| :-----: | :-----: | :----: | :------: | :--------: | :--: |
+| [A02630](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | nyh | | | |
+|  |  | QKim | | | |
+| [A01992](https://www.acmicpc.net/problem/1992) | 쿼드트리 | nyh | | | |
+|  |  | QKim | | | |
+| [A01780](https://www.acmicpc.net/problem/1780) | 종이의 개수 | nyh | | | |
+|  |  | QKim | | | |
+| [A01629](https://www.acmicpc.net/problem/1629) | 곱셈 | nyh | | | |
+|  |  | QKim | | | |
+| [A11401](https://www.acmicpc.net/problem/1401) | 이항 계수 3 | nyh | | | |
+|  |  | QKim | | | |
+| [A02740](https://www.acmicpc.net/problem/2740) | 행렬 곱셈 | nyh | | | |
+|  |  | QKim | | | |
+| [A10830](https://www.acmicpc.net/problem/10830) | 행렬 제곱 | nyh | | | |
+|  |  | QKim | | | |
+| [A11444](https://www.acmicpc.net/problem/11444)| 피보나치 수 6 | nyh | | | |
+|  |  | QKim | | | |
+| [A06549](https://www.acmicpc.net/problem/6549) | 히스토그램에서 가장 큰 직사각형 | nyh | | | |
+|  |  | QKim | | | |
+
+
+## Dijkstra
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A01753](https://www.acmicpc.net/problem/1753) | 최단경로 | nyh | [PyPy3](NYH/Acmicpc/A01753.py)| [592ms](https://www.acmicpc.net/source/44241199) | 다익스트라 |
@@ -12,7 +35,7 @@
 | [A09370](https://www.acmicpc.net/problem/9370) | 미확인 도착지 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A09370.js) | [900ms](https://www.acmicpc.net/source/44316527) | 다익스트라 |
 
-## opt: dp
+## DP
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A01003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | nyh | | | |
