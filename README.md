@@ -12,7 +12,7 @@
 | [A01629](https://www.acmicpc.net/problem/1629) | 곱셈 | nyh | | | |
 |  |  | QKim | [py](QKIM/Acmicpc/A01629.py) | [76ms](https://www.acmicpc.net/source/37779617) | 분할정복 |
 | [A11401](https://www.acmicpc.net/problem/11401) | 이항 계수 3 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A11401.js) | [2860ms](https://www.acmicpc.net/source/44527645) | 분할정복, 답지 |
 | [A02740](https://www.acmicpc.net/problem/2740) | 행렬 곱셈 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A02740.js) | [196ms](https://www.acmicpc.net/source/44466269) | 구현 |
 | [A10830](https://www.acmicpc.net/problem/10830) | 행렬 제곱 | nyh | | | |
