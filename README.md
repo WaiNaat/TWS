@@ -17,7 +17,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A02740.js) | [196ms](https://www.acmicpc.net/source/44466269) | 구현 |
 | [A10830](https://www.acmicpc.net/problem/10830) | 행렬 제곱 | nyh |[py](NYH/Acmicpc/A10830.py)|[72ms](https://www.acmicpc.net/source/44574223)| 분할정복 |
 |  |  | QKim | [py](QKIM/Acmicpc/A10830.py) | [72ms](https://www.acmicpc.net/source/39060289) | 분할정복 |
-| [A11444](https://www.acmicpc.net/problem/11444)| 피보나치 수 6 | nyh | | | |
+| [A11444](https://www.acmicpc.net/problem/11444)| 피보나치 수 6 | nyh |[py](NYH/Acmicpc/A11444.py)|[68ms](https://www.acmicpc.net/source/44578275) | 분할 정복, 답지 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A11444.js) | [140ms](https://www.acmicpc.net/source/44499948) | 분할정복, 답지 |
 | [A06549](https://www.acmicpc.net/problem/6549) | 히스토그램에서 가장 큰 직사각형 | nyh | | | |
 |  |  | QKim | | | |
