@@ -15,7 +15,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A11401.js) | [2860ms](https://www.acmicpc.net/source/44527645) | 분할정복, 답지 |
 | [A02740](https://www.acmicpc.net/problem/2740) | 행렬 곱셈 | nyh |[PyPy3](NYH/Acmicpc/A02740.py) |[132ms](https://www.acmicpc.net/source/44557617)| 분할 정복 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A02740.js) | [196ms](https://www.acmicpc.net/source/44466269) | 구현 |
-| [A10830](https://www.acmicpc.net/problem/10830) | 행렬 제곱 | nyh | | | |
+| [A10830](https://www.acmicpc.net/problem/10830) | 행렬 제곱 | nyh |[py](NYH/Acmicpc/A10830.py)|[72ms](https://www.acmicpc.net/source/44574223)| 분할정복 |
 |  |  | QKim | [py](QKIM/Acmicpc/A10830.py) | [72ms](https://www.acmicpc.net/source/39060289) | 분할정복 |
 | [A11444](https://www.acmicpc.net/problem/11444)| 피보나치 수 6 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A11444.js) | [140ms](https://www.acmicpc.net/source/44499948) | 분할정복, 답지 |
