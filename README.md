@@ -68,3 +68,26 @@
 |  |  | QKim | | | |
 | [A12865](https://www.acmicpc.net/problem/12865)| 평범한 배낭 | nyh | [py](NYH/Acmicpc/A12865.py) | [3000ms](https://www.acmicpc.net/source/44008960) | DP |
 |  |  | QKim | [py](QKIM/Acmicpc/A12865.py) | [5248ms](https://www.acmicpc.net/source/40227956)| DP |
+
+### Backtracking
+
+| Source  | Problem | Author | Solution | Submission | Type |
+| :-----: | :-----: | :----: | :------: | :--------: | :--: |
+| [A09663](https://www.acmicpc.net/problem/9663) | N-Queen | nyh | | | |
+|  |  | QKim | | | |
+| [A01759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | nyh | | | |
+|  |  | QKim | | | |
+| [A15686](https://www.acmicpc.net/problem/15686) | 치킨 배달 | nyh | | | |
+|  |  | QKim | | | |
+| [A01987](https://www.acmicpc.net/problem/1987) | 알파벳 | nyh | | | |
+|  |  | QKim | | | |
+| [A02580](https://www.acmicpc.net/problem/2580) | 스도쿠 | nyh | | | |
+|  |  | QKim | | | |
+| [A12100](https://www.acmicpc.net/problem/12100) | 2048(Easy) | nyh | | | |
+|  |  | QKim | | | |
+| [A15684](https://www.acmicpc.net/problem/15684) | 사다리 조작 | nyh | | | |
+|  |  | QKim | | | |
+| [A01062](https://www.acmicpc.net/problem/1062)| 가르침 | nyh | | | |
+|  |  | QKim | | | |
+| [A01038](https://www.acmicpc.net/problem/1038) | 감소하는 수 | nyh | | | |
+|  |  | QKim | | | |
