@@ -19,7 +19,7 @@
 |  |  | QKim | [py](QKIM/Acmicpc/A10830.py) | [72ms](https://www.acmicpc.net/source/39060289) | 분할정복 |
 | [A11444](https://www.acmicpc.net/problem/11444)| 피보나치 수 6 | nyh |[py](NYH/Acmicpc/A11444.py)|[68ms](https://www.acmicpc.net/source/44578275) | 분할 정복, 답지 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A11444.js) | [140ms](https://www.acmicpc.net/source/44499948) | 분할정복, 답지 |
-| [A06549](https://www.acmicpc.net/problem/6549) | 히스토그램에서 가장 큰 직사각형 | nyh | | | |
+| [A06549](https://www.acmicpc.net/problem/6549) | 히스토그램에서 가장 큰 직사각형 | nyh | [PyPy3](NYH/Acmicpc/A06549.py)|[444ms](https://www.acmicpc.net/source/44678976) | 분할정복, 답지 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A06549.js) | [388ms](https://www.acmicpc.net/source/44610789) | 분할정복 |
 
 
