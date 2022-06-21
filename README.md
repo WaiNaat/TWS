@@ -73,7 +73,7 @@
 
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
-| [A09663](https://www.acmicpc.net/problem/9663) | N-Queen | nyh | | | |
+| [A09663](https://www.acmicpc.net/problem/9663) | N-Queen | nyh |[PyPy3](NYH/Acmicpc/A09663.py) | [30068ms](https://www.acmicpc.net/source/44810629) | 답지, 백트래킹|
 |  |  | QKim | | | |
 | [A01759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | nyh | | | |
 |  |  | QKim | | | |
