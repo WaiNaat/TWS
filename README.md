@@ -74,7 +74,7 @@
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A09663](https://www.acmicpc.net/problem/9663) | N-Queen | nyh |[PyPy3](NYH/Acmicpc/A09663.py) | [30068ms](https://www.acmicpc.net/source/44810629) | 답지, 백트래킹|
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A09663.js) | [4088ms](https://www.acmicpc.net/source/44858714) | 백트래킹 |
 | [A01759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | nyh |[py](NYH/Acmicpc/A01759.py) | [84ms](https://www.acmicpc.net/source/44829271) | 백트래킹 |
 |  |  | QKim | | | |
 | [A15686](https://www.acmicpc.net/problem/15686) | 치킨 배달 | nyh | | | |
