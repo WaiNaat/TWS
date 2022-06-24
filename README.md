@@ -81,7 +81,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15686.js) | [228ms](https://www.acmicpc.net/source/44959414) | 백트래킹 |
 | [A01987](https://www.acmicpc.net/problem/1987) | 알파벳 | nyh | [PyPy3](NYH/Acmicpc/A01987.py)|[6572ms](https://www.acmicpc.net/source/44959199) | 백트래킹|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A01987.js) | [2448ms](https://www.acmicpc.net/source/44913706) | 백트래킹 |
-| [A02580](https://www.acmicpc.net/problem/2580) | 스도쿠 | nyh | | | |
+| [A02580](https://www.acmicpc.net/problem/2580) | 스도쿠 | nyh |[PyPy3](NYH/Acmicpc/A01987.py)|[2508ms](https://www.acmicpc.net/source/44962333) | 백트래킹, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A02580.js) | [1052ms](https://www.acmicpc.net/source/44960416) | 백트래킹 |
 | [A12100](https://www.acmicpc.net/problem/12100) | 2048(Easy) | nyh | | | |
 |  |  | QKim | | | |
