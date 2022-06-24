@@ -79,7 +79,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A01759.js) | [180ms](https://www.acmicpc.net/source/44909900) | 백트래킹 |
 | [A15686](https://www.acmicpc.net/problem/15686) | 치킨 배달 | nyh |[py](NYH/Acmicpc/A15686.py) |[480ms](https://www.acmicpc.net/source/44957698) | 조합 |
 |  |  | QKim | | | |
-| [A01987](https://www.acmicpc.net/problem/1987) | 알파벳 | nyh | | | |
+| [A01987](https://www.acmicpc.net/problem/1987) | 알파벳 | nyh | [PyPy3](NYH/Acmicpc/A01987.py)|[6572ms](https://www.acmicpc.net/source/44959199) | 백트래킹|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A01987.js) | [2448ms](https://www.acmicpc.net/source/44913706) | 백트래킹 |
 | [A02580](https://www.acmicpc.net/problem/2580) | 스도쿠 | nyh | | | |
 |  |  | QKim | | | |
