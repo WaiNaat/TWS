@@ -1,5 +1,33 @@
 ## 문제 풀이
 
+## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+| Source  | Problem | Author | Solution | Submission | Type |
+| :-----: | :-----: | :----: | :------: | :--------: | :--: |
+| [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | | | |
+|  |  | QKim | | | |
+| [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | | | |
+|  |  | QKim | | | |
+| [A03190](https://www.acmicpc.net/problem/3190) | 뱀 | nyh | | | |
+|  |  | QKim | | | |
+| [A13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | nyh | | | |
+|  |  | QKim | | | |
+| [A14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 | nyh | | | |
+|  |  | QKim | | | |
+| [A14500](https://www.acmicpc.net/problem/14500) | 테트로미노 | nyh | | | |
+|  |  | QKim | | | |
+| [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh | | | |
+|  |  | QKim | | | |
+| [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | | | |
+|  |  | QKim | | | |
+| [A14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기 | nyh | | | |
+|  |  | QKim | | | |
+| [A14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | nyh | | | |
+|  |  | QKim | | | |
+| [A14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | nyh | | | |
+|  |  | QKim | | | |
+| [A14890](https://www.acmicpc.net/problem/14890) | 경사로 | nyh | | | |
+|  |  | QKim | | | |
+
 ## Divide & Conquer
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
@@ -69,7 +97,7 @@
 | [A12865](https://www.acmicpc.net/problem/12865)| 평범한 배낭 | nyh | [py](NYH/Acmicpc/A12865.py) | [3000ms](https://www.acmicpc.net/source/44008960) | DP |
 |  |  | QKim | [py](QKIM/Acmicpc/A12865.py) | [5248ms](https://www.acmicpc.net/source/40227956)| DP |
 
-### Backtracking
+## Backtracking
 
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
