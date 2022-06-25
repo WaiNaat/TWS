@@ -6,7 +6,7 @@
 | [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | | | |
 |  |  | QKim | | | |
 | [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A12100.js) | [316ms](https://www.acmicpc.net/source/44990908) | 백트래킹 |
 | [A03190](https://www.acmicpc.net/problem/3190) | 뱀 | nyh | | | |
 |  |  | QKim | | | |
 | [A13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | nyh | | | |
@@ -18,7 +18,7 @@
 | [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh | | | |
 |  |  | QKim | | | |
 | [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A14502.js) | [856ms](https://www.acmicpc.net/source/44994578) | 백트래킹, DFS |
 | [A14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기 | nyh | | | |
 |  |  | QKim | | | |
 | [A14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | nyh | | | |
