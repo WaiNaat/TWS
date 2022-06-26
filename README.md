@@ -7,7 +7,7 @@
 |  |  | QKim | | | |
 | [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A12100.js) | [316ms](https://www.acmicpc.net/source/44990908) | 백트래킹 |
-| [A03190](https://www.acmicpc.net/problem/3190) | 뱀 | nyh | | | |
+| [A03190](https://www.acmicpc.net/problem/3190) | 뱀 | nyh | [py](NYH/Acmicpc/A03190.py) |[100ms](https://www.acmicpc.net/source/45035424) | BFS |
 |  |  | QKim | | | |
 | [A13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | nyh | | | |
 |  |  | QKim | | | |
