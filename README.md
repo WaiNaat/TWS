@@ -3,7 +3,7 @@
 ## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
-| [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | | | |
+| [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | [py](NYH/Acmicpc/A13460.py) | [292ms](https://www.acmicpc.net/source/45120701)| BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13460_DFS.js) <br/> [node.js](QKIM/Acmicpc/A13460_BFS.js) | [1088ms](https://www.acmicpc.net/source/45087185) <br/> [412ms](https://www.acmicpc.net/source/45090320)| 백트래킹 <br/> BFS |
 | [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A12100.js) | [316ms](https://www.acmicpc.net/source/44990908) | 백트래킹 |
