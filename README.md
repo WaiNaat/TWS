@@ -4,13 +4,13 @@
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A13460_DFS.js) <br/> [node.js](QKIM/Acmicpc/A13460_BFS.js) | [1088ms](https://www.acmicpc.net/source/45087185) <br/> [412ms](https://www.acmicpc.net/source/45090320)| 백트래킹 <br/> BFS |
 | [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A12100.js) | [316ms](https://www.acmicpc.net/source/44990908) | 백트래킹 |
 | [A03190](https://www.acmicpc.net/problem/3190) | 뱀 | nyh | [py](NYH/Acmicpc/A03190.py) |[100ms](https://www.acmicpc.net/source/45035424) | BFS |
 |  |  | QKim | | | |
 | [A13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A13458.js) | [588ms](https://www.acmicpc.net/source/45044190) | 구현 |
 | [A14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 | nyh | | | |
 |  |  | QKim | | | |
 | [A14500](https://www.acmicpc.net/problem/14500) | 테트로미노 | nyh | | | |
@@ -20,7 +20,7 @@
 | [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14502.js) | [856ms](https://www.acmicpc.net/source/44994578) | 백트래킹, DFS |
 | [A14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A14503.js) | [136ms](https://www.acmicpc.net/source/45095450) | 구현 |
 | [A14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | nyh | | | |
 |  |  | QKim | | | |
 | [A14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | nyh | | | |
