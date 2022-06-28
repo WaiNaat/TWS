@@ -5,7 +5,7 @@
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | [py](NYH/Acmicpc/A13460.py) | [292ms](https://www.acmicpc.net/source/45120701)| BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13460_DFS.js) <br/> [node.js](QKIM/Acmicpc/A13460_BFS.js) | [1088ms](https://www.acmicpc.net/source/45087185) <br/> [412ms](https://www.acmicpc.net/source/45090320)| 백트래킹 <br/> BFS |
-| [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | | | |
+| [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | [py](NYH/Acmicpc/A12100.py)|[592ms](https://www.acmicpc.net/source/45157753) | 백트래킹|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A12100.js) | [316ms](https://www.acmicpc.net/source/44990908) | 백트래킹 |
 | [A03190](https://www.acmicpc.net/problem/3190) | 뱀 | nyh | [py](NYH/Acmicpc/A03190.py) |[100ms](https://www.acmicpc.net/source/45035424) | BFS |
 |  |  | QKim | | | |
