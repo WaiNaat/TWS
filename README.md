@@ -12,7 +12,7 @@
 | [A13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13458.js) | [588ms](https://www.acmicpc.net/source/45044190) | 구현 |
 | [A14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 | nyh |[py](NYH/Acmicpc/A14499.py) | [68ms](https://www.acmicpc.net/source/45098336) | 구현 |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A14499.js) | [128ms](https://www.acmicpc.net/source/45193192) | 구현 |
 | [A14500](https://www.acmicpc.net/problem/14500) | 테트로미노 | nyh | | | |
 |  |  | QKim | | | |
 | [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh | | | |
@@ -24,7 +24,7 @@
 | [A14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14888.js) | [212ms](https://www.acmicpc.net/source/45136425) | 백트래킹 |
 | [A14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A14889.js) | [808ms](https://www.acmicpc.net/source/45193945) | 백트래킹 |
 | [A14890](https://www.acmicpc.net/problem/14890) | 경사로 | nyh | | | |
 |  |  | QKim | | | |
 
