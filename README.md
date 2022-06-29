@@ -17,7 +17,7 @@
 |  |  | QKim | | | |
 | [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh | | | |
 |  |  | QKim | | | |
-| [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | | | |
+| [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | [py](NYH/Acmicpc/A14502.py) |[3020ms](https://www.acmicpc.net/source/45206389) | 조합, BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14502.js) | [856ms](https://www.acmicpc.net/source/44994578) | 백트래킹, DFS |
 | [A14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14503.js) | [136ms](https://www.acmicpc.net/source/45095450) | 구현 |
