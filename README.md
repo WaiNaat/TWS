@@ -13,7 +13,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13458.js) | [588ms](https://www.acmicpc.net/source/45044190) | 구현 |
 | [A14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 | nyh |[py](NYH/Acmicpc/A14499.py) | [68ms](https://www.acmicpc.net/source/45098336) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14499.js) | [128ms](https://www.acmicpc.net/source/45193192) | 구현 |
-| [A14500](https://www.acmicpc.net/problem/14500) | 테트로미노 | nyh | | | |
+| [A14500](https://www.acmicpc.net/problem/14500) | 테트로미노 | nyh |[py](NYH/Acmicpc/A14500.py)|[6020ms](https://www.acmicpc.net/source/45216394) | 구현 |
 |  |  | QKim | | | |
 | [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh | | | |
 |  |  | QKim | | | |
