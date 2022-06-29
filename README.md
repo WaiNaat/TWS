@@ -19,7 +19,7 @@
 |  |  | QKim | | | |
 | [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | [py](NYH/Acmicpc/A14502.py) |[3020ms](https://www.acmicpc.net/source/45206389) | 조합, BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14502.js) | [856ms](https://www.acmicpc.net/source/44994578) | 백트래킹, DFS |
-| [A14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기 | nyh | | | |
+| [A14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기 | nyh | [py](NYH/Acmicpc/A14503.py)| [76ms](https://www.acmicpc.net/source/45209610) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14503.js) | [136ms](https://www.acmicpc.net/source/45095450) | 구현 |
 | [A14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14888.js) | [212ms](https://www.acmicpc.net/source/45136425) | 백트래킹 |
