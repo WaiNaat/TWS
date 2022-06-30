@@ -23,7 +23,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14503.js) | [136ms](https://www.acmicpc.net/source/45095450) | 구현 |
 | [A14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14888.js) | [212ms](https://www.acmicpc.net/source/45136425) | 백트래킹 |
-| [A14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | nyh | | | |
+| [A14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | nyh | [py](NYH/Acmicpc/A14889.py)| [4696ms](https://www.acmicpc.net/source/45268282) | 조합 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14889.js) | [808ms](https://www.acmicpc.net/source/45193945) | 백트래킹 |
 | [A14890](https://www.acmicpc.net/problem/14890) | 경사로 | nyh | [py](NYH/Acmicpc/A14890.py)|[84ms](https://www.acmicpc.net/source/45266539)| 구현, 답지|
 |  |  | QKim | | | |
