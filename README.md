@@ -14,7 +14,7 @@
 | [A14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 | nyh |[py](NYH/Acmicpc/A14499.py) | [68ms](https://www.acmicpc.net/source/45098336) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14499.js) | [128ms](https://www.acmicpc.net/source/45193192) | 구현 |
 | [A14500](https://www.acmicpc.net/problem/14500) | 테트로미노 | nyh |[py](NYH/Acmicpc/A14500.py)|[6020ms](https://www.acmicpc.net/source/45216394) | 구현 |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A14500.js) | [1200ms](https://www.acmicpc.net/source/45247857) | DFS |
 | [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh | | | |
 |  |  | QKim | | | |
 | [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | [py](NYH/Acmicpc/A14502.py) |[3020ms](https://www.acmicpc.net/source/45206389) | 조합, BFS |
@@ -26,7 +26,7 @@
 | [A14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | nyh | [py](NYH/Acmicpc/A14889.py)| [4696ms](https://www.acmicpc.net/source/45268282) | 조합 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14889.js) | [808ms](https://www.acmicpc.net/source/45193945) | 백트래킹 |
 | [A14890](https://www.acmicpc.net/problem/14890) | 경사로 | nyh | [py](NYH/Acmicpc/A14890.py)|[84ms](https://www.acmicpc.net/source/45266539)| 구현, 답지|
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A14890.js) | [128ms](https://www.acmicpc.net/source/45275911) | 구현 |
 
 ## Divide & Conquer
 | Source  | Problem | Author | Solution | Submission | Type |
