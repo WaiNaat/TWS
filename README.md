@@ -9,13 +9,13 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A12100.js) | [316ms](https://www.acmicpc.net/source/44990908) | 백트래킹 |
 | [A03190](https://www.acmicpc.net/problem/3190) | 뱀 | nyh | [py](NYH/Acmicpc/A03190.py) |[100ms](https://www.acmicpc.net/source/45035424) | BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A03190.js) | [192ms](https://www.acmicpc.net/source/45134077) | 구현 |
-| [A13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | nyh | | | |
+| [A13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | nyh |[py](NYH/Acmicpc/A13458.py)|[760ms](https://www.acmicpc.net/source/45330521) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13458.js) | [588ms](https://www.acmicpc.net/source/45044190) | 구현 |
 | [A14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 | nyh |[py](NYH/Acmicpc/A14499.py) | [68ms](https://www.acmicpc.net/source/45098336) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14499.js) | [128ms](https://www.acmicpc.net/source/45193192) | 구현 |
 | [A14500](https://www.acmicpc.net/problem/14500) | 테트로미노 | nyh |[py](NYH/Acmicpc/A14500.py)|[6020ms](https://www.acmicpc.net/source/45216394) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14500.js) | [1200ms](https://www.acmicpc.net/source/45247857) | DFS |
-| [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh | | | |
+| [A14501](https://www.acmicpc.net/problem/14501) | 퇴사 | nyh |[py](NYH/Acmicpc/A14501.py)|[76ms](https://www.acmicpc.net/source/45329497) | DP |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14501.js) | [124ms](https://www.acmicpc.net/source/45301192) | DP |
 | [A14502](https://www.acmicpc.net/problem/14502) | 연구소 | nyh | [py](NYH/Acmicpc/A14502.py) |[3020ms](https://www.acmicpc.net/source/45206389) | 조합, BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14502.js) | [856ms](https://www.acmicpc.net/source/44994578) | 백트래킹, DFS |
