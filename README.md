@@ -17,7 +17,7 @@
 |  |  | QKim | | | |
 | [A16235](https://www.acmicpc.net/problem/16235) | 나무 재테크 | nyh | | | |
 |  |  | QKim | | | |
-| [A16236](https://www.acmicpc.net/problem/16238) | 아기 상어 | nyh | | | |
+| [A16236](https://www.acmicpc.net/problem/16236) | 아기 상어 | nyh | | | |
 |  |  | QKim | | | |
 | [A17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! | nyh | | | |
 |  |  | QKim | | | |
