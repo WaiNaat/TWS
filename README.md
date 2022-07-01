@@ -3,6 +3,30 @@
 ## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
+| [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | | | |
+|  |  | QKim | | | |
+| [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | | | |
+|  |  | QKim | | | |
+| [A15684](https://www.acmicpc.net/problem/15684) | 사다리 조작 | nyh | | | |
+|  |  | QKim | | | |
+| [A15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | nyh | | | |
+|  |  | QKim | | | |
+| [A05373](https://www.acmicpc.net/problem/5373) | 큐빙 | nyh | | | |
+|  |  | QKim | | | |
+| [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh | | | |
+|  |  | QKim | | | |
+| [A16235](https://www.acmicpc.net/problem/16235) | 나무 재테크 | nyh | | | |
+|  |  | QKim | | | |
+| [A16236](https://www.acmicpc.net/problem/16238) | 아기 상어 | nyh | | | |
+|  |  | QKim | | | |
+| [A17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! | nyh | | | |
+|  |  | QKim | | | |
+| [A17143](https://www.acmicpc.net/problem/17143) | 낚시왕 | nyh | | | |
+|  |  | QKim | | | |
+| [A17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 | nyh | | | |
+|  |  | QKim | | | |
+| [A17142](https://www.acmicpc.net/problem/17142) | 연구소 3 | nyh | | | |
+|  |  | QKim | | | |
 | [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | [py](NYH/Acmicpc/A13460.py) | [292ms](https://www.acmicpc.net/source/45120701)| BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13460_DFS.js) <br/> [node.js](QKIM/Acmicpc/A13460_BFS.js) | [1088ms](https://www.acmicpc.net/source/45087185) <br/> [412ms](https://www.acmicpc.net/source/45090320)| 백트래킹 <br/> BFS |
 | [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | [py](NYH/Acmicpc/A12100.py)|[592ms](https://www.acmicpc.net/source/45157753) | 백트래킹|
