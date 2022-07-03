@@ -4,13 +4,13 @@
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A14891.js) | [156ms](https://www.acmicpc.net/source/45380520) | 구현 |
 | [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A15683.js) | [380ms](https://www.acmicpc.net/source/45386089) | 백트래킹 |
 | [A15684](https://www.acmicpc.net/problem/15684) | 사다리 조작 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A15684.js) | [1040ms](https://www.acmicpc.net/source/45412471) | 백트래킹 |
 | [A15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A15685.js) | [136ms](https://www.acmicpc.net/source/45413413) | 구현 |
 | [A05373](https://www.acmicpc.net/problem/5373) | 큐빙 | nyh | | | |
 |  |  | QKim | | | |
 | [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh | | | |
