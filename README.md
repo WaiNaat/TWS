@@ -5,7 +5,7 @@
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14891.js) | [156ms](https://www.acmicpc.net/source/45380520) | 구현 |
-| [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | | | |
+| [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | [py](NYH/Acmicpc/A15683.py) | [524ms](https://www.acmicpc.net/source/45429121) | 백트래킹 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15683.js) | [380ms](https://www.acmicpc.net/source/45386089) | 백트래킹 |
 | [A15684](https://www.acmicpc.net/problem/15684) | 사다리 조작 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15684.js) | [1040ms](https://www.acmicpc.net/source/45412471) | 백트래킹 |
