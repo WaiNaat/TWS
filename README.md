@@ -3,7 +3,7 @@
 ## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
-| [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | | | |
+| [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | [py](NYH/Acmicpc/A14891.py)|[100ms](https://www.acmicpc.net/source/45487735) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14891.js) | [156ms](https://www.acmicpc.net/source/45380520) | 구현 |
 | [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | [py](NYH/Acmicpc/A15683.py) | [524ms](https://www.acmicpc.net/source/45429121) | 백트래킹 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15683.js) | [380ms](https://www.acmicpc.net/source/45386089) | 백트래킹 |
