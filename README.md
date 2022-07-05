@@ -15,7 +15,7 @@
 |  |  | QKim | | | |
 | [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh |[PyPy3](NYH/Acmicpc/A16234.py)|[1596ms](https://www.acmicpc.net/source/45551074) | BFS |
 |  |  | QKim | | | |
-| [A16235](https://www.acmicpc.net/problem/16235) | 나무 재테크 | nyh | | | |
+| [A16235](https://www.acmicpc.net/problem/16235) | 나무 재테크 | nyh |[PyPy3](NYH/Acmicpc/A16235.py)|[772ms](https://www.acmicpc.net/source/45558165) | 구현 |
 |  |  | QKim | | | |
 | [A16236](https://www.acmicpc.net/problem/16236) | 아기 상어 | nyh | | | |
 |  |  | QKim | | | |
