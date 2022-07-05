@@ -10,10 +10,10 @@
 | [A15684](https://www.acmicpc.net/problem/15684) | 사다리 조작 | nyh | [PyPy3](NYH/Acmicpc/A15684.py)| [2504ms](https://www.acmicpc.net/source/45497722)| 백트래킹, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15684.js) | [1040ms](https://www.acmicpc.net/source/45412471) | 백트래킹 |
 | [A15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | nyh |[py](NYH/Acmicpc/A15685.py)|[72ms](https://www.acmicpc.net/source/45545454) | 구현 |
-|  |  | QKim | [node.js](QKIM/Acmicpc/A15685.js) | [136ms](https://www.acmicpc.net/source/45413413) | 구현 |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A15685.js) | [136ms](https://www.acmicpc.net/source/45413413) | bfs |
 | [A05373](https://www.acmicpc.net/problem/5373) | 큐빙 | nyh | | | |
 |  |  | QKim | | | |
-| [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh | | | |
+| [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh |[PyPy3](NYH/Acmicpc/A16234.py)|[1596ms](https://www.acmicpc.net/source/45551074) | BFS |
 |  |  | QKim | | | |
 | [A16235](https://www.acmicpc.net/problem/16235) | 나무 재테크 | nyh | | | |
 |  |  | QKim | | | |
