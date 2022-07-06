@@ -12,15 +12,15 @@
 | [A15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | nyh |[py](NYH/Acmicpc/A15685.py)|[72ms](https://www.acmicpc.net/source/45545454) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15685.js) | [136ms](https://www.acmicpc.net/source/45413413) | bfs |
 | [A05373](https://www.acmicpc.net/problem/5373) | 큐빙 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A05373.js) | [468ms](https://www.acmicpc.net/source/45543798) | 구현 |
 | [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh |[PyPy3](NYH/Acmicpc/A16234.py)|[1596ms](https://www.acmicpc.net/source/45551074) | BFS |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A16234.js) | [1196ms](https://www.acmicpc.net/source/45458047) | BFS |
 | [A16235](https://www.acmicpc.net/problem/16235) | 나무 재테크 | nyh |[PyPy3](NYH/Acmicpc/A16235.py)|[772ms](https://www.acmicpc.net/source/45558165) | 구현 |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A16235.js) | [888ms](https://www.acmicpc.net/source/45554653) | 구현 |
 | [A16236](https://www.acmicpc.net/problem/16236) | 아기 상어 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A16236.js) | [220ms](https://www.acmicpc.net/source/45606349) | BFS |
 | [A17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17144.js) | [1112ms](https://www.acmicpc.net/source/45610897) | 구현 |
 | [A17143](https://www.acmicpc.net/problem/17143) | 낚시왕 | nyh | | | |
 |  |  | QKim | | | |
 | [A17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 | nyh | | | |
