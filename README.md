@@ -11,7 +11,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15684.js) | [1040ms](https://www.acmicpc.net/source/45412471) | 백트래킹 |
 | [A15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | nyh |[py](NYH/Acmicpc/A15685.py)|[72ms](https://www.acmicpc.net/source/45545454) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15685.js) | [136ms](https://www.acmicpc.net/source/45413413) | bfs |
-| [A05373](https://www.acmicpc.net/problem/5373) | 큐빙 | nyh | | | |
+| [A05373](https://www.acmicpc.net/problem/5373) | 큐빙 | nyh | [py](NYH/Acmicpc/A0573.py)|[228ms](https://www.acmicpc.net/source/45684643) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A05373.js) | [468ms](https://www.acmicpc.net/source/45543798) | 구현 |
 | [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh |[PyPy3](NYH/Acmicpc/A16234.py)|[1596ms](https://www.acmicpc.net/source/45551074) | BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A16234.js) | [1196ms](https://www.acmicpc.net/source/45458047) | BFS |
