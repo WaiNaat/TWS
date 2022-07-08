@@ -10,7 +10,7 @@
 | [A15684](https://www.acmicpc.net/problem/15684) | 사다리 조작 | nyh | [PyPy3](NYH/Acmicpc/A15684.py)| [2504ms](https://www.acmicpc.net/source/45497722)| 백트래킹, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A15684.js) | [1040ms](https://www.acmicpc.net/source/45412471) | 백트래킹 |
 | [A15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | nyh |[py](NYH/Acmicpc/A15685.py)|[72ms](https://www.acmicpc.net/source/45545454) | 구현 |
-|  |  | QKim | [node.js](QKIM/Acmicpc/A15685.js) | [136ms](https://www.acmicpc.net/source/45413413) | bfs |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A15685.js) | [136ms](https://www.acmicpc.net/source/45413413) | 구현 |
 | [A05373](https://www.acmicpc.net/problem/5373) | 큐빙 | nyh | [py](NYH/Acmicpc/A0573.py)|[228ms](https://www.acmicpc.net/source/45684643) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A05373.js) | [468ms](https://www.acmicpc.net/source/45543798) | 구현 |
 | [A16234](https://www.acmicpc.net/problem/16234) | 인구 이동 | nyh |[PyPy3](NYH/Acmicpc/A16234.py)|[1596ms](https://www.acmicpc.net/source/45551074) | BFS |
@@ -22,11 +22,11 @@
 | [A17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17144.js) | [1112ms](https://www.acmicpc.net/source/45610897) | 구현 |
 | [A17143](https://www.acmicpc.net/problem/17143) | 낚시왕 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17143.js) | [904ms](https://www.acmicpc.net/source/45658431) | 구현 |
 | [A17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17140.js) | [260ms](https://www.acmicpc.net/source/45665248) | 구현 |
 | [A17142](https://www.acmicpc.net/problem/17142) | 연구소 3 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17142.js) | [392ms](https://www.acmicpc.net/source/45721090) | 백트래킹, BFS |
 | [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | [py](NYH/Acmicpc/A13460.py) | [292ms](https://www.acmicpc.net/source/45120701)| BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13460_DFS.js) <br/> [node.js](QKIM/Acmicpc/A13460_BFS.js) | [1088ms](https://www.acmicpc.net/source/45087185) <br/> [412ms](https://www.acmicpc.net/source/45090320)| 백트래킹 <br/> BFS |
 | [A12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | nyh | [py](NYH/Acmicpc/A12100.py)|[592ms](https://www.acmicpc.net/source/45157753) | 백트래킹|
