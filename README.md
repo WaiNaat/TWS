@@ -21,7 +21,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A16236.js) | [220ms](https://www.acmicpc.net/source/45606349) | BFS |
 | [A17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! | nyh |[PyPy3](NYH/Acmicpc/A17144.py) |[1232ms](https://www.acmicpc.net/source/45737538) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17144.js) | [1112ms](https://www.acmicpc.net/source/45610897) | 구현 |
-| [A17143](https://www.acmicpc.net/problem/17143) | 낚시왕 | nyh | | | |
+| [A17143](https://www.acmicpc.net/problem/17143) | 낚시왕 | nyh |[PyPy3](NYH/Acmicpc/A17143.py) | [3656ms](https://www.acmicpc.net/source/45742172) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17143.js) | [904ms](https://www.acmicpc.net/source/45658431) | 구현 |
 | [A17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17140.js) | [260ms](https://www.acmicpc.net/source/45665248) | 구현 |
