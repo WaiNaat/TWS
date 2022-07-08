@@ -25,7 +25,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17143.js) | [904ms](https://www.acmicpc.net/source/45658431) | 구현 |
 | [A17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 | nyh |[py](NYH/Acmicpc/A17140.py) | [92ms](https://www.acmicpc.net/source/45745836)| 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17140.js) | [260ms](https://www.acmicpc.net/source/45665248) | 구현 |
-| [A17142](https://www.acmicpc.net/problem/17142) | 연구소 3 | nyh | | | |
+| [A17142](https://www.acmicpc.net/problem/17142) | 연구소 3 | nyh |[PyPy3](NYH/Acmicpc/A17142.py) |[292ms](https://www.acmicpc.net/source/45748042) | BFS, 조합|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17142.js) | [392ms](https://www.acmicpc.net/source/45721090) | 백트래킹, BFS |
 | [A13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | nyh | [py](NYH/Acmicpc/A13460.py) | [292ms](https://www.acmicpc.net/source/45120701)| BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A13460_DFS.js) <br/> [node.js](QKIM/Acmicpc/A13460_BFS.js) | [1088ms](https://www.acmicpc.net/source/45087185) <br/> [412ms](https://www.acmicpc.net/source/45090320)| 백트래킹 <br/> BFS |
