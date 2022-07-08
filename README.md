@@ -17,7 +17,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A16234.js) | [1196ms](https://www.acmicpc.net/source/45458047) | BFS |
 | [A16235](https://www.acmicpc.net/problem/16235) | 나무 재테크 | nyh |[PyPy3](NYH/Acmicpc/A16235.py)|[772ms](https://www.acmicpc.net/source/45558165) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A16235.js) | [888ms](https://www.acmicpc.net/source/45554653) | 구현 |
-| [A16236](https://www.acmicpc.net/problem/16236) | 아기 상어 | nyh | | | |
+| [A16236](https://www.acmicpc.net/problem/16236) | 아기 상어 | nyh | [py](NYH/Acmicpc/A16236.py)|(https://www.acmicpc.net/source/45732356)| BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A16236.js) | [220ms](https://www.acmicpc.net/source/45606349) | BFS |
 | [A17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17144.js) | [1112ms](https://www.acmicpc.net/source/45610897) | 구현 |
