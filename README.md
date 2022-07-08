@@ -23,7 +23,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17144.js) | [1112ms](https://www.acmicpc.net/source/45610897) | 구현 |
 | [A17143](https://www.acmicpc.net/problem/17143) | 낚시왕 | nyh |[PyPy3](NYH/Acmicpc/A17143.py) | [3656ms](https://www.acmicpc.net/source/45742172) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17143.js) | [904ms](https://www.acmicpc.net/source/45658431) | 구현 |
-| [A17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 | nyh | | | |
+| [A17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 | nyh |[py](NYH/Acmicpc/A17140.py) | [92ms](https://www.acmicpc.net/source/45745836)| 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17140.js) | [260ms](https://www.acmicpc.net/source/45665248) | 구현 |
 | [A17142](https://www.acmicpc.net/problem/17142) | 연구소 3 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17142.js) | [392ms](https://www.acmicpc.net/source/45721090) | 백트래킹, BFS |
