@@ -23,10 +23,6 @@
 |  |  | QKim | | | |
 | [A20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 | nyh | | | |
 |  |  | QKim | | | |
-| [A20057](https://www.acmicpc.net/problem/20057) | 마법사 상어와 토네이도 | nyh | | | |
-|  |  | QKim | | | |
-| [A20058](https://www.acmicpc.net/problem/20058) | 마법사 상어와 파이어스톰 | nyh | | | |
-|  |  | QKim | | | |
 | [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | [py](NYH/Acmicpc/A14891.py)|[100ms](https://www.acmicpc.net/source/45487735) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14891.js) | [156ms](https://www.acmicpc.net/source/45380520) | 구현 |
 | [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | [py](NYH/Acmicpc/A15683.py) | [524ms](https://www.acmicpc.net/source/45429121) | 백트래킹 |
