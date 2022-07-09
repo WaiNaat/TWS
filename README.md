@@ -3,6 +3,30 @@
 ## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
+| [A17779](https://www.acmicpc.net/problem/17779) | 게리멘더링 2 | nyh | | | |
+|  |  | QKim | | | |
+| [A17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | nyh | | | |
+|  |  | QKim | | | |
+| [A17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | nyh | | | |
+|  |  | QKim | | | |
+| [A17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | nyh | | | |
+|  |  | QKim | | | |
+| [A20061](https://www.acmicpc.net/problem/20061) | 모노미노도미노 2 | nyh | | | |
+|  |  | QKim | | | |
+| [A19236](https://www.acmicpc.net/problem/19236) | 청소년 상어 | nyh | | | |
+|  |  | QKim | | | |
+| [A19237](https://www.acmicpc.net/problem/19237) | 어른 상어 | nyh | | | |
+|  |  | QKim | | | |
+| [A19238](https://www.acmicpc.net/problem/19238) | 스타트 택시 | nyh | | | |
+|  |  | QKim | | | |
+| [A20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 | nyh | | | |
+|  |  | QKim | | | |
+| [A20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 | nyh | | | |
+|  |  | QKim | | | |
+| [A20057](https://www.acmicpc.net/problem/20057) | 마법사 상어와 토네이도 | nyh | | | |
+|  |  | QKim | | | |
+| [A20058](https://www.acmicpc.net/problem/20058) | 마법사 상어와 파이어스톰 | nyh | | | |
+|  |  | QKim | | | |
 | [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | [py](NYH/Acmicpc/A14891.py)|[100ms](https://www.acmicpc.net/source/45487735) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14891.js) | [156ms](https://www.acmicpc.net/source/45380520) | 구현 |
 | [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | [py](NYH/Acmicpc/A15683.py) | [524ms](https://www.acmicpc.net/source/45429121) | 백트래킹 |
