@@ -4,13 +4,13 @@
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A17779](https://www.acmicpc.net/problem/17779) | 게리멘더링 2 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17779.js) | [496ms](https://www.acmicpc.net/source/45778343) | 구현 |
 | [A17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17837.js) | [264ms](https://www.acmicpc.net/source/45815655) | 구현 |
 | [A17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17822.js) | [464ms](https://www.acmicpc.net/source/45821830) | 구현 |
 | [A17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | nyh | | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17825.js) | [456ms](https://www.acmicpc.net/source/45866640) | 백트래킹 |
 | [A20061](https://www.acmicpc.net/problem/20061) | 모노미노도미노 2 | nyh | | | |
 |  |  | QKim | | | |
 | [A19236](https://www.acmicpc.net/problem/19236) | 청소년 상어 | nyh | | | |
