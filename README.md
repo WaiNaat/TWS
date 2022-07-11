@@ -7,7 +7,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17779.js) | [496ms](https://www.acmicpc.net/source/45778343) | 구현 |
 | [A17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | nyh |[py](NYH/Acmicpc/A17837.py) |[112ms](https://www.acmicpc.net/source/45885555) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17837.js) | [264ms](https://www.acmicpc.net/source/45815655) | 구현 |
-| [A17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | nyh | | | |
+| [A17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | nyh |[py](NYH/Acmicpc/A17822.py)|[232ms](https://www.acmicpc.net/source/45890497) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17822.js) | [464ms](https://www.acmicpc.net/source/45821830) | 구현 |
 | [A17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17825.js) | [456ms](https://www.acmicpc.net/source/45866640) | 백트래킹 |
