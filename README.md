@@ -5,7 +5,7 @@
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A17779](https://www.acmicpc.net/problem/17779) | 게리멘더링 2 | nyh | [py](NYH/Acmicpc/A17779.py)|[960ms](https://www.acmicpc.net/source/45834985) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17779.js) | [496ms](https://www.acmicpc.net/source/45778343) | 구현 |
-| [A17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | nyh | | | |
+| [A17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | nyh |[py](NYH/Acmicpc/A17837.py) |[112ms](https://www.acmicpc.net/source/45885555) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17837.js) | [264ms](https://www.acmicpc.net/source/45815655) | 구현 |
 | [A17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17822.js) | [464ms](https://www.acmicpc.net/source/45821830) | 구현 |
