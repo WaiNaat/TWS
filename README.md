@@ -9,7 +9,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17837.js) | [264ms](https://www.acmicpc.net/source/45815655) | 구현 |
 | [A17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | nyh |[py](NYH/Acmicpc/A17822.py)|[232ms](https://www.acmicpc.net/source/45890497) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17822.js) | [464ms](https://www.acmicpc.net/source/45821830) | 구현 |
-| [A17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | nyh | | | |
+| [A17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | nyh |[py](NYH/Acmicpc/A17825.py) |[936ms](https://www.acmicpc.net/source/45939079) | 백트래킹, 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17825.js) | [456ms](https://www.acmicpc.net/source/45866640) | 백트래킹 |
 | [A20061](https://www.acmicpc.net/problem/20061) | 모노미노도미노 2 | nyh | | | |
 |  |  | QKim | | | |
