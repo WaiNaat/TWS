@@ -11,7 +11,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17822.js) | [464ms](https://www.acmicpc.net/source/45821830) | 구현 |
 | [A17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | nyh |[py](NYH/Acmicpc/A17825.py) |[936ms](https://www.acmicpc.net/source/45939079) | 백트래킹, 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17825.js) | [456ms](https://www.acmicpc.net/source/45866640) | 백트래킹 |
-| [A20061](https://www.acmicpc.net/problem/20061) | 모노미노도미노 2 | nyh | | | |
+| [A20061](https://www.acmicpc.net/problem/20061) | 모노미노도미노 2 | nyh |[py](NYH/Acmicpc/A20061.py) | [140ms](https://www.acmicpc.net/source/45947274)| 구현 |
 |  |  | QKim | | | |
 | [A19236](https://www.acmicpc.net/problem/19236) | 청소년 상어 | nyh | | | |
 |  |  | QKim | | | |
