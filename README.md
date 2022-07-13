@@ -13,7 +13,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17825.js) | [456ms](https://www.acmicpc.net/source/45866640) | 백트래킹 |
 | [A20061](https://www.acmicpc.net/problem/20061) | 모노미노도미노 2 | nyh |[py](NYH/Acmicpc/A20061.py) | [140ms](https://www.acmicpc.net/source/45947274)| 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A20061.js) | [360ms](https://www.acmicpc.net/source/45925339) | 구현 |
-| [A19236](https://www.acmicpc.net/problem/19236) | 청소년 상어 | nyh | | | |
+| [A19236](https://www.acmicpc.net/problem/19236) | 청소년 상어 | nyh | [py](NYH/Acmicpc/A19236.py)|[92ms](https://www.acmicpc.net/source/45987577)| 백트래킹, 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A19236.js) | [196ms](https://www.acmicpc.net/source/45975186) | 백트래킹 |
 | [A19237](https://www.acmicpc.net/problem/19237) | 어른 상어 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A19237.js) | [296ms](https://www.acmicpc.net/source/45985349) | 구현 |
