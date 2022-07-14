@@ -19,7 +19,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A19237.js) | [296ms](https://www.acmicpc.net/source/45985349) | 구현 |
 | [A19238](https://www.acmicpc.net/problem/19238) | 스타트 택시 | nyh |[py](NYH/Acmicpc/A19238.py) | [580ms](https://www.acmicpc.net/source/46004524)| 구현, BFS, 답지 |
 |  |  | QKim | | | |
-| [A20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 | nyh | | | |
+| [A20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 | nyh |[PyPy3](NYH/Acmicpc/A20055.py)| [1380ms](https://www.acmicpc.net/source/46061765) | 구현 |
 |  |  | QKim | | | |
 | [A20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 | nyh | | | |
 |  |  | QKim | | | |
