@@ -21,7 +21,7 @@
 |  |  | QKim | | | |
 | [A20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 | nyh |[PyPy3](NYH/Acmicpc/A20055.py)| [1380ms](https://www.acmicpc.net/source/46061765) | 구현 |
 |  |  | QKim | | | |
-| [A20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 | nyh | | | |
+| [A20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 | nyh |[py](NYH/Acmicpc/A20056.py) |[1124ms](https://www.acmicpc.net/source/46063923) | 구현 |
 |  |  | QKim | | | |
 | [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | [py](NYH/Acmicpc/A14891.py)|[100ms](https://www.acmicpc.net/source/45487735) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14891.js) | [156ms](https://www.acmicpc.net/source/45380520) | 구현 |
