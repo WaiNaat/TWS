@@ -3,6 +3,26 @@
 ## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
+| [A20057](https://www.acmicpc.net/problem/20057) | 마법사 상어와 토네이도 | nyh | | | |
+|  |  | QKim | | | |
+| [A20058](https://www.acmicpc.net/problem/20058) | 마법사 상어와 파이어스톰 | nyh | | | |
+|  |  | QKim | | | |
+| [A21608](https://www.acmicpc.net/problem/21608) | 상어 초등학교 | nyh | | | |
+|  |  | QKim | | | |
+| [A21609](https://www.acmicpc.net/problem/21609) | 상어 중학교 | nyh | | | |
+|  |  | QKim | | | |
+| [A21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기 | nyh | | | |
+|  |  | QKim | | | |
+| [A21611](https://www.acmicpc.net/problem/21611) | 마법사 상어와 블리자드 | nyh | | | |
+|  |  | QKim | | | |
+| [A23288](https://www.acmicpc.net/problem/23288) | 주사위 굴리기 2 | nyh | | | |
+|  |  | QKim | | | |
+| [A23289](https://www.acmicpc.net/problem/23289) | 온풍기 안녕! | nyh | | | |
+|  |  | QKim | | | |
+| [A23290](https://www.acmicpc.net/problem/23290) | 마법사 상어와 복제 | nyh | | | |
+|  |  | QKim | | | |
+| [A23291](https://www.acmicpc.net/problem/23291) | 이항 정리 | nyh | | | |
+|  |  | QKim | | | |
 | [A17779](https://www.acmicpc.net/problem/17779) | 게리멘더링 2 | nyh | [py](NYH/Acmicpc/A17779.py)|[960ms](https://www.acmicpc.net/source/45834985) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17779.js) | [496ms](https://www.acmicpc.net/source/45778343) | 구현 |
 | [A17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | nyh |[py](NYH/Acmicpc/A17837.py) |[112ms](https://www.acmicpc.net/source/45885555) | 구현 |
