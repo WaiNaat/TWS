@@ -18,11 +18,11 @@
 | [A19237](https://www.acmicpc.net/problem/19237) | 어른 상어 | nyh | [py](NYH/Acmicpc/A19237.py) |[452ms](https://www.acmicpc.net/source/45994375) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A19237.js) | [296ms](https://www.acmicpc.net/source/45985349) | 구현 |
 | [A19238](https://www.acmicpc.net/problem/19238) | 스타트 택시 | nyh |[py](NYH/Acmicpc/A19238.py) | [580ms](https://www.acmicpc.net/source/46004524)| 구현, BFS, 답지 |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A19238.js) | [312ms](https://www.acmicpc.net/source/46043185) | BFS |
 | [A20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 | nyh |[PyPy3](NYH/Acmicpc/A20055.py)| [1380ms](https://www.acmicpc.net/source/46061765) | 구현 |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A20055.js) | [460ms](https://www.acmicpc.net/source/46048108) | 구현 |
 | [A20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼 | nyh |[py](NYH/Acmicpc/A20056.py) |[1124ms](https://www.acmicpc.net/source/46063923) | 구현 |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A20056.js) | [592ms](https://www.acmicpc.net/source/46088498) | 구현 |
 | [A14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | nyh | [py](NYH/Acmicpc/A14891.py)|[100ms](https://www.acmicpc.net/source/45487735) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A14891.js) | [156ms](https://www.acmicpc.net/source/45380520) | 구현 |
 | [A15683](https://www.acmicpc.net/problem/15683) | 감시 | nyh | [py](NYH/Acmicpc/A15683.py) | [524ms](https://www.acmicpc.net/source/45429121) | 백트래킹 |
