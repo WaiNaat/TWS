@@ -7,7 +7,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A20057.js) | [636ms](https://www.acmicpc.net/source/46146430) | 구현 |
 | [A20058](https://www.acmicpc.net/problem/20058) | 마법사 상어와 파이어스톰 | nyh |[PyPy3](NYH/Acmicpc/A20058.py)|[988ms](https://www.acmicpc.net/source/46368872) | 구현, BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A20058.js) | [556ms](https://www.acmicpc.net/source/46150405) | DFS, 구현 |
-| [A21608](https://www.acmicpc.net/problem/21608) | 상어 초등학교 | nyh | | | |
+| [A21608](https://www.acmicpc.net/problem/21608) | 상어 초등학교 | nyh |[py](NYH/Acmicpc/A21608.py) | [244ms](https://www.acmicpc.net/source/46370861) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21608.js) | [280ms](https://www.acmicpc.net/source/46176984) | 구현 |
 | [A21609](https://www.acmicpc.net/problem/21609) | 상어 중학교 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21609.js) | [336ms](https://www.acmicpc.net/source/46183468) | DFS, 구현 |
