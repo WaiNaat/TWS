@@ -3,7 +3,7 @@
 ## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
-| [A20057](https://www.acmicpc.net/problem/20057) | 마법사 상어와 토네이도 | nyh | | | |
+| [A20057](https://www.acmicpc.net/problem/20057) | 마법사 상어와 토네이도 | nyh |[py](NYH/Acmicpc/A20057.py)|[3124ms](https://www.acmicpc.net/source/46360044) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A20057.js) | [636ms](https://www.acmicpc.net/source/46146430) | 구현 |
 | [A20058](https://www.acmicpc.net/problem/20058) | 마법사 상어와 파이어스톰 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A20058.js) | [556ms](https://www.acmicpc.net/source/46150405) | DFS, 구현 |
