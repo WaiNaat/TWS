@@ -11,7 +11,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21608.js) | [280ms](https://www.acmicpc.net/source/46176984) | 구현 |
 | [A21609](https://www.acmicpc.net/problem/21609) | 상어 중학교 | nyh |[py](NYH/Acmicpc/A21609.py)| [252ms](https://www.acmicpc.net/source/46430893)| 구현, BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21609.js) | [336ms](https://www.acmicpc.net/source/46183468) | DFS, 구현 |
-| [A21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기 | nyh | | | |
+| [A21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기 | nyh |[PyPy3](NYH/Acmicpc/A21610.py) | [756ms](https://www.acmicpc.net/source/46479963) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21610.js) | [252ms](https://www.acmicpc.net/source/46221706) | 구현 |
 | [A21611](https://www.acmicpc.net/problem/21611) | 마법사 상어와 블리자드 | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21611.js) | [296ms](https://www.acmicpc.net/source/46232564) | 구현 |
