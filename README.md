@@ -13,9 +13,9 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21609.js) | [336ms](https://www.acmicpc.net/source/46183468) | DFS, 구현 |
 | [A21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기 | nyh |[PyPy3](NYH/Acmicpc/A21610.py) | [756ms](https://www.acmicpc.net/source/46479963) | 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21610.js) | [252ms](https://www.acmicpc.net/source/46221706) | 구현 |
-| [A21611](https://www.acmicpc.net/problem/21611) | 마법사 상어와 블리자드 | nyh | | | |
+| [A21611](https://www.acmicpc.net/problem/21611) | 마법사 상어와 블리자드 | nyh |[py](NYH/Acmicpc/A21611.py) | [676ms](https://www.acmicpc.net/source/46486610)| 구현 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A21611.js) | [296ms](https://www.acmicpc.net/source/46232564) | 구현 |
-| [A23288](https://www.acmicpc.net/problem/23288) | 주사위 굴리기 2 | nyh | | | |
+| [A23288](https://www.acmicpc.net/problem/23288) | 주사위 굴리기 2 | nyh |[py](NYH/Acmicpc/A23288.py) |[680ms](https://www.acmicpc.net/source/46489165) | 구현, BFS |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A23288.js) | [344ms](https://www.acmicpc.net/source/46280665) | DFS, 구현 |
 | [A23289](https://www.acmicpc.net/problem/23289) | 온풍기 안녕! | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A23289.js) | [236ms](https://www.acmicpc.net/source/46365715) | 구현 |
