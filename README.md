@@ -19,7 +19,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A23288.js) | [344ms](https://www.acmicpc.net/source/46280665) | DFS, 구현 |
 | [A23289](https://www.acmicpc.net/problem/23289) | 온풍기 안녕! | nyh | | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A23289.js) | [236ms](https://www.acmicpc.net/source/46365715) | 구현 |
-| [A23290](https://www.acmicpc.net/problem/23290) | 마법사 상어와 복제 | nyh | | | |
+| [A23290](https://www.acmicpc.net/problem/23290) | 마법사 상어와 복제 | nyh |[py](NYH/Acmicpc/A23290.py) |[3984ms](https://www.acmicpc.net/source/46489647) | 구현, 답지|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A23290.js) | [524ms](https://www.acmicpc.net/source/46428639) | 백트래킹, 구현 |
 | [A23291](https://www.acmicpc.net/problem/23291) | 어항 정리 | nyh | [py](NYH/Acmicpc/A23291.py)| [96ms](https://www.acmicpc.net/source/46489418) | 구현, 답지 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A23291.js) | [208ms](https://www.acmicpc.net/source/46468669) | 구현 |
