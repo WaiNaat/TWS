@@ -1,5 +1,29 @@
 ## 문제 풀이
 
+## [삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
+| Source  | Problem | Author | Solution | Submission | Type |
+| :-----: | :-----: | :----: | :------: | :--------: | :--: |
+| [A16637](https://www.acmicpc.net/problem/16637) | 괄호 추가하기 | nyh | | |
+|  |  | QKim | | | |
+| [A17070](https://www.acmicpc.net/problem/17070) | 파이프 옮기기 1 | nyh | | |
+|  |  | QKim | | | |
+| [A17135](https://www.acmicpc.net/problem/17135) | 캐슬 디펜스 | nyh | | |
+|  |  | QKim | | | |
+| [A17136](https://www.acmicpc.net/problem/17136) | 색종이 붙이기 | nyh | | |
+|  |  | QKim | | | |
+| [A17281](https://www.acmicpc.net/problem/17281) | ⚾ | nyh | | |
+|  |  | QKim | | | |
+| [A03954](https://www.acmicpc.net/problem/3954) | Brainf**k 인터프리터 | nyh | | |
+|  |  | QKim | | | |
+| [A17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | nyh | | |
+|  |  | QKim | | | |
+| [A17471](https://www.acmicpc.net/problem/17471) | 게리맨더링 | nyh | | |
+|  |  | QKim | | | |
+| [A17472](https://www.acmicpc.net/problem/17472) | 다리 만들기 2 | nyh | | |
+|  |  | QKim | | | |
+
+
+
 ## [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
