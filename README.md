@@ -7,7 +7,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A16637.js) | [160ms](https://www.acmicpc.net/source/46516825) | 백트래킹 |
 | [A17070](https://www.acmicpc.net/problem/17070) | 파이프 옮기기 1 | nyh |[py](NYH/Acmicpc/A17070.py) |[72ms](https://www.acmicpc.net/source/46634880) | dp |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17070.js) | [140ms](https://www.acmicpc.net/source/46627476) | dp |
-| [A17135](https://www.acmicpc.net/problem/17135) | 캐슬 디펜스 | nyh | | |
+| [A17135](https://www.acmicpc.net/problem/17135) | 캐슬 디펜스 | nyh |[py](NYH/Acmicpc/A17135.py)|[1076ms](https://www.acmicpc.net/source/46639615)| 구현, 조합|
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17135.js) | [440ms](https://www.acmicpc.net/source/46562879) | 백트래킹, bfs |
 | [A17136](https://www.acmicpc.net/problem/17136) | 색종이 붙이기 | nyh | | |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17136.js) | [232ms](https://www.acmicpc.net/source/46624427) | 백트래킹, 답지 |
