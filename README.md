@@ -4,13 +4,13 @@
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
 | [A16637](https://www.acmicpc.net/problem/16637) | 괄호 추가하기 | nyh | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A16637.js) | [160ms](https://www.acmicpc.net/source/46516825) | 백트래킹 |
 | [A17070](https://www.acmicpc.net/problem/17070) | 파이프 옮기기 1 | nyh | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17070.js) | [140ms](https://www.acmicpc.net/source/46627476) | dp |
 | [A17135](https://www.acmicpc.net/problem/17135) | 캐슬 디펜스 | nyh | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17135.js) | [440ms](https://www.acmicpc.net/source/46562879) | 백트래킹, bfs |
 | [A17136](https://www.acmicpc.net/problem/17136) | 색종이 붙이기 | nyh | | |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17136.js) | [232ms](https://www.acmicpc.net/source/46624427) | 백트래킹, 답지 |
 | [A17281](https://www.acmicpc.net/problem/17281) | ⚾ | nyh | | |
 |  |  | QKim | | | |
 | [A03954](https://www.acmicpc.net/problem/3954) | Brainf**k 인터프리터 | nyh | | |
