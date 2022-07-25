@@ -11,7 +11,7 @@
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17135.js) | [440ms](https://www.acmicpc.net/source/46562879) | 백트래킹, bfs |
 | [A17136](https://www.acmicpc.net/problem/17136) | 색종이 붙이기 | nyh |[py](NYH/Acmicpc/A17136.py) |[4768ms](https://www.acmicpc.net/source/46660359) | 백트래킹 ,답지 |
 |  |  | QKim | [node.js](QKIM/Acmicpc/A17136.js) | [232ms](https://www.acmicpc.net/source/46624427) | 백트래킹, 답지 |
-| [A17281](https://www.acmicpc.net/problem/17281) | ⚾ | nyh | | |
+| [A17281](https://www.acmicpc.net/problem/17281) | ⚾ | nyh |[PyPy3](NYH/Acmicpc/A17281.py) | [1384ms](https://www.acmicpc.net/source/46660714)| 순열 |
 |  |  | QKim | | | |
 | [A03954](https://www.acmicpc.net/problem/3954) | Brainf**k 인터프리터 | nyh | | |
 |  |  | QKim | | | |
