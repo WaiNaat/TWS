@@ -17,7 +17,7 @@
 |  |  | QKim | | | |
 | [A17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | nyh |[py](NYH/Acmicpc/A17406.py) |[2412ms](https://www.acmicpc.net/source/46756739) | 구현, 순열 |
 |  |  | QKim | | | |
-| [A17471](https://www.acmicpc.net/problem/17471) | 게리맨더링 | nyh | | |
+| [A17471](https://www.acmicpc.net/problem/17471) | 게리맨더링 | nyh |[py](NYH/Acmicpc/A17471.py) |[136ms](https://www.acmicpc.net/source/46762371) | 구현, 조합, bfs|
 |  |  | QKim | | | |
 | [A17472](https://www.acmicpc.net/problem/17472) | 다리 만들기 2 | nyh | | |
 |  |  | QKim | | | |
