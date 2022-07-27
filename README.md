@@ -15,7 +15,7 @@
 |  |  | QKim | [PyPy3](QKIM/Acmicpc/A17281_pypy.py) <br/> [node.js](QKIM/Acmicpc/A17281_nodejs.js) | [1236ms](https://www.acmicpc.net/source/46675812) <br/> [504ms](https://www.acmicpc.net/source/46678726) | 순열 <br/> 백트래킹 |
 | [A03954](https://www.acmicpc.net/problem/3954) | Brainf**k 인터프리터 | nyh | [PyPy3](NYH/Acmicpc/A03954.py)|[12052ms](https://www.acmicpc.net/source/46752031) | 구현, 답지|
 |  |  | QKim | | | |
-| [A17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | nyh | | |
+| [A17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | nyh |[py](NYH/Acmicpc/A17406.py) |[2412ms](https://www.acmicpc.net/source/46756739) | 구현, 순열 |
 |  |  | QKim | | | |
 | [A17471](https://www.acmicpc.net/problem/17471) | 게리맨더링 | nyh | | |
 |  |  | QKim | | | |
