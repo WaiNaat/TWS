@@ -19,7 +19,7 @@
 |  |  | QKim | | | |
 | [A17471](https://www.acmicpc.net/problem/17471) | 게리맨더링 | nyh |[py](NYH/Acmicpc/A17471.py) |[136ms](https://www.acmicpc.net/source/46762371) | 구현, 조합, bfs|
 |  |  | QKim | | | |
-| [A17472](https://www.acmicpc.net/problem/17472) | 다리 만들기 2 | nyh | | |
+| [A17472](https://www.acmicpc.net/problem/17472) | 다리 만들기 2 | nyh |[py](NYH/Acmicpc/A17472.py) | [88ms](https://www.acmicpc.net/source/46827241)| 최소 신장 트리, bfs, 답지| 
 |  |  | QKim | | | |
 
 
