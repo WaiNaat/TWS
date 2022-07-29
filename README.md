@@ -14,13 +14,13 @@
 | [A17281](https://www.acmicpc.net/problem/17281) | ⚾ | nyh |[PyPy3](NYH/Acmicpc/A17281.py) | [1384ms](https://www.acmicpc.net/source/46660714)| 순열 |
 |  |  | QKim | [PyPy3](QKIM/Acmicpc/A17281_pypy.py) <br/> [node.js](QKIM/Acmicpc/A17281_nodejs.js) | [1236ms](https://www.acmicpc.net/source/46675812) <br/> [504ms](https://www.acmicpc.net/source/46678726) | 순열 <br/> 백트래킹 |
 | [A03954](https://www.acmicpc.net/problem/3954) | Brainf**k 인터프리터 | nyh | [PyPy3](NYH/Acmicpc/A03954.py)|[12052ms](https://www.acmicpc.net/source/46752031) | 구현, 답지|
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A03954.js) | [18340ms](https://www.acmicpc.net/source/46737266) | 구현 |
 | [A17406](https://www.acmicpc.net/problem/17406) | 배열 돌리기 4 | nyh |[py](NYH/Acmicpc/A17406.py) |[2412ms](https://www.acmicpc.net/source/46756739) | 구현, 순열 |
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17406.js) | [360ms](https://www.acmicpc.net/source/46789317) | 백트래킹 |
 | [A17471](https://www.acmicpc.net/problem/17471) | 게리맨더링 | nyh |[py](NYH/Acmicpc/A17471.py) |[136ms](https://www.acmicpc.net/source/46762371) | 구현, 조합, bfs|
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17471.js) | [216ms](https://www.acmicpc.net/source/46798848) | 백트래킹, dfs |
 | [A17472](https://www.acmicpc.net/problem/17472) | 다리 만들기 2 | nyh |[py](NYH/Acmicpc/A17472.py) | [88ms](https://www.acmicpc.net/source/46827241)| 최소 신장 트리, bfs, 답지| 
-|  |  | QKim | | | |
+|  |  | QKim | [node.js](QKIM/Acmicpc/A17472.js) | [128ms](https://www.acmicpc.net/source/46847226) | dfs, 크루스칼 |
 
 
 
