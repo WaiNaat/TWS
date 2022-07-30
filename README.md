@@ -1,5 +1,23 @@
 ## 문제 풀이
 
+## 2022 KAKAO BLIND RECRUITMENT
+| Source  | Problem | Author | Solution | Type |
+| :-----: | :-----: | :----: | :------: | :--: |
+| [P92334](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | 신고 결과 받기 | nyh | | |
+|  |  | QKim | | |
+| [P92335](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | K진수에서 소수 개수 구하기 | nyh | | |
+|  |  | QKim | | |
+| [P92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 주차 요금 계산 | nyh | | |
+|  |  | QKim | | |
+| [P92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | 양궁대회 | nyh | | |
+|  |  | QKim | | |
+| [P92343](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 양과 늑대 | nyh | | |
+|  |  | QKim | | |
+| [P92344](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물 | nyh | | |
+|  |  | QKim | | |
+| [P92345](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | 사라지는 발판 | nyh | | |
+|  |  | QKim | | |
+
 ## [삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
 | Source  | Problem | Author | Solution | Submission | Type |
 | :-----: | :-----: | :----: | :------: | :--------: | :--: |
