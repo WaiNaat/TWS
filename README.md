@@ -7,7 +7,7 @@
 |  |  | QKim | [js](QKIM/Programmers/P92334.js) | 구현 |
 | [P92335](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | K진수에서 소수 개수 구하기 | nyh | [py](NYH/Programmers/P92335.py)| 구현 |
 |  |  | QKim | [js](QKIM/Programmers/P92335.js) | 구현 |
-| [P92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 주차 요금 계산 | nyh | | |
+| [P92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 주차 요금 계산 | nyh |[py](NYH/Programmers/P92341.py)| 구현 |
 |  |  | QKim | | |
 | [P92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | 양궁대회 | nyh | | |
 |  |  | QKim | | |
