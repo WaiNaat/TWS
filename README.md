@@ -8,11 +8,11 @@
 | [P92335](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | K진수에서 소수 개수 구하기 | nyh | [py](NYH/Programmers/P92335.py)| 구현 |
 |  |  | QKim | [js](QKIM/Programmers/P92335.js) | 구현 |
 | [P92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 주차 요금 계산 | nyh |[py](NYH/Programmers/P92341.py)| 구현 |
-|  |  | QKim | | |
+|  |  | QKim | [js](QKIM/Programmers/P92341.js) | 구현 |
 | [P92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | 양궁대회 | nyh | | |
-|  |  | QKim | | |
+|  |  | QKim | [js](QKIM/Programmers/P92342.js) | 백트래킹 |
 | [P92343](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 양과 늑대 | nyh | | |
-|  |  | QKim | | |
+|  |  | QKim | [js](QKIM/Programmers/P92343.js) | 백트래킹, 답지 |
 | [P92344](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물 | nyh | | |
 |  |  | QKim | | |
 | [P92345](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | 사라지는 발판 | nyh | | |
