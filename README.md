@@ -11,7 +11,7 @@
 |  |  | QKim | [js](QKIM/Programmers/P92341.js) | 구현 |
 | [P92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | 양궁대회 | nyh |[py](NYH/Programmers/P92342.py)| 조합, 답지|
 |  |  | QKim | [js](QKIM/Programmers/P92342.js) | 백트래킹 |
-| [P92343](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 양과 늑대 | nyh | | |
+| [P92343](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 양과 늑대 | nyh | [py](NYH/Programmers/P92343.py)| 백트래킹, 답지 |
 |  |  | QKim | [js](QKIM/Programmers/P92343.js) | 백트래킹, 답지 |
 | [P92344](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물 | nyh | | |
 |  |  | QKim | [js](QKIM/Programmers/P92344.js) | 누적합, 답지 |
