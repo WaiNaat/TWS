@@ -14,7 +14,7 @@
 | [P92343](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 양과 늑대 | nyh | | |
 |  |  | QKim | [js](QKIM/Programmers/P92343.js) | 백트래킹, 답지 |
 | [P92344](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물 | nyh | | |
-|  |  | QKim | | |
+|  |  | QKim | [js](QKIM/Programmers/P92344.js) | 누적합, 답지 |
 | [P92345](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | 사라지는 발판 | nyh | | |
 |  |  | QKim | | |
 
