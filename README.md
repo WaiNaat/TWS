@@ -16,7 +16,7 @@
 | [P92344](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물 | nyh | | |
 |  |  | QKim | [js](QKIM/Programmers/P92344.js) | 누적합, 답지 |
 | [P92345](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | 사라지는 발판 | nyh | | |
-|  |  | QKim | | |
+|  |  | QKim | [js](QKIM/Programmers/P92345.js) | 백트래킹, 답지 |
 
 ## [삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
 | Source  | Problem | Author | Solution | Submission | Type |
