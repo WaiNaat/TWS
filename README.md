@@ -9,6 +9,8 @@
 |  |  | QKim | | |
 | [P77486](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | 다단계 칫솔 판매 | nyh | | |
 |  |  | QKim | | |
+| [P77487](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | 헤비 유저가 소유한 장소 | nyh | | |
+|  |  | QKim | | |
 
 ## 2017 팁스타운
 | Source  | Problem | Author | Solution | Type |
