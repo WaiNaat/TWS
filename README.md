@@ -4,12 +4,12 @@
 | Source  | Problem | Author | Solution | Type |
 | :-----: | :-----: | :----: | :------: | :--: |
 | [P77484](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | 로또의 최고 순위와 최저 순위 | nyh | | |
-|  |  | QKim | | |
+|  |  | QKim | [js](QKIM/Programmers/P77484.js) | 구현 |
 | [P77485](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기 | nyh | | |
-|  |  | QKim | | |
+|  |  | QKim | [js](QKIM/Programmers/P77485.js) | 구현 |
 | [P77486](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | 다단계 칫솔 판매 | nyh | | |
-|  |  | QKim | | |
-| [P77487](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | 헤비 유저가 소유한 장소 | nyh | | |
+|  |  | QKim | [js](QKIM/Programmers/P77486.js) | 트리 탐색 |
+| [P77487](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | 헤비 유저가 소유한 장소 (SQL) | nyh | | |
 |  |  | QKim | | |
 
 ## 2017 팁스타운
